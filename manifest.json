@@ -1,0 +1,26 @@
+{
+    "name": "Cambridge Dictionary Translator",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "A simple script to look up Cambridge Dictionary Translations.",
+    "icons": {
+        "128": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "background": {
+        "scripts": ["cambridge_english.js","cambridge_polish.js"]
+    },
+	  "content_scripts": [
+    {
+      "matches": ["https://dictionary.cambridge.org/*"],
+      "js": ["adhide.js"]
+    }
+    ],
+    "permissions": [
+        "activeTab",
+        "contextMenus"
+    ],
+    "author":"Vin"
+}

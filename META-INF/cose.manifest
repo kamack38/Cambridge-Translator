@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+
+Name: adhide.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hBBtOCHrxCo/CHqQ5jwt+MoiW0A=
+SHA256-Digest: bv635D7Q/HBZfro0f7Xn/pFxfOyBK3dw2pJSOFG18wM=
+
+Name: cambridge_dict.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: r0O/i52+dHT1jG/tuQGNZDgw1oY=
+SHA256-Digest: ZEvoV4asO0QwBaw3gvPss7h7astIYc0iM5ozALRHBfE=
+
+Name: icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tok9WKH+AyA9/n0D+SFz1hUKXkQ=
+SHA256-Digest: CRnYj+NazlINPfIPJG3Y5/kYueraPPK9W1KGTJy3KOE=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YSLbRwWPCEeb924I/d+sQ5THZzg=
+SHA256-Digest: bIe4FfjhDgyzsOcDK538AaEymfKBLanCy4XxeFi0jl4=
+
